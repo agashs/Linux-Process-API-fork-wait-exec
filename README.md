@@ -23,7 +23,8 @@ Test the C Program for the desired output.
 
 # PROGRAM:
 
-## C Program to create new process using Linux API system calls fork() and getpid() , getppid() and to print process ID and parent Process ID using Linux API system calls```
+## C Program to create new process using Linux API system calls fork() and getpid() , getppid() and to print process ID and parent Process ID using Linux API system calls
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -47,9 +48,10 @@ int main() {
 ```
 ##OUTPUT
 
-file:///home/agash/OS/EXP2/Linux-Process-API-fork-wait-exec/i1.png 
+<img width="691" height="123" alt="image" src="https://github.com/user-attachments/assets/10e84c25-c1b1-4f0c-a0e1-0cd489ce421b" />
 
-file:///home/agash/OS/EXP2/Linux-Process-API-fork-wait-exec/i2.png 
+<img width="699" height="127" alt="image" src="https://github.com/user-attachments/assets/c27c2b19-130e-42c7-8844-c7d754acc690" />
+
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 ```
@@ -95,6 +97,8 @@ int main() {
 }
 ```
 ##OUTPUT
+
+<img width="714" height="305" alt="image" src="https://github.com/user-attachments/assets/c42b94fa-3bd9-444b-9510-d62696e4c3e2" />
 
 
 
